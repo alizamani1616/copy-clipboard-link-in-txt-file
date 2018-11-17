@@ -1,0 +1,1 @@
+# copy-clipboard-link-in-txt-file
